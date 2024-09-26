@@ -1,6 +1,6 @@
 criaCartao(
     'Futebol',
-    'Em que times o Ronaldo fenomeno jogol?',
+    'Em que times o Ronaldo fenomeno jogou?',
     'Cruzeiro, PSV Eindhoven, Barcelona, Internazionale, Real Madrid, Milan e Corinthians'
 )
 
